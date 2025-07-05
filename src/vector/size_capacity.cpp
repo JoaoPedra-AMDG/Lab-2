@@ -20,3 +20,5 @@ int main()
 
     return 0;
 }
+//size is the number of elements used in the code
+//capacity is the amount of space allocated
